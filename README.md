@@ -1,6 +1,6 @@
 # Curso de Deep Learning com Pytorch do canal Programação Dinâmica
 
-###### Professor: [Hallison Paz](https://www.linkedin.com/in/hallpaz/)
+#### Professor: [Hallison Paz](https://www.linkedin.com/in/hallpaz/)
 
 
 ## Aula 1 - Introdução às redes neurais artificiais e à biblioteca PyTorch
@@ -14,6 +14,6 @@
 
 ## Aula 3 - Métricas de Classificação
 
-###### Professora: [Kizzy Terra](https://www.linkedin.com/in/kizzyterra/)
+#### Professora: [Kizzy Terra](https://www.linkedin.com/in/kizzyterra/)
 
 [<img src="https://img.youtube.com/vi/ePZswmBSLvc/maxresdefault.jpg">](https://youtu.be/ePZswmBSLvc)
