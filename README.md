@@ -17,3 +17,5 @@
 #### Professora: [Kizzy Terra](https://www.linkedin.com/in/kizzyterra/)
 
 [<img src="https://img.youtube.com/vi/ePZswmBSLvc/maxresdefault.jpg">](https://youtu.be/ePZswmBSLvc)
+
+## Aula 4 - Redes Neurais Generativas Adversárias (GANs)
