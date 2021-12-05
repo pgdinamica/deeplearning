@@ -19,3 +19,5 @@
 [<img src="https://img.youtube.com/vi/ePZswmBSLvc/maxresdefault.jpg">](https://youtu.be/ePZswmBSLvc)
 
 ## Aula 4 - Redes Neurais Generativas Adversárias (GANs)
+
+[<img src="https://img.youtube.com/vi/BIEBJZ_Db7Y/maxresdefault.jpg">](https://youtu.be/BIEBJZ_Db7Y)
